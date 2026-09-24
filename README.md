@@ -10,7 +10,7 @@
 روی سرور، به‌عنوان root (`sudo -i`) این خط را paste کن (به‌جای `YOUR_USER/YOUR_REPO` نام مخزن خودت):
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/leohaghighi/myDns/blob/main/Install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/leohaghighi/myDns/blob/main/Install.sh](https://raw.githubusercontent.com/leohaghighi/myDns/refs/heads/main/Install.sh)
 ```
 
 قبلش در تلگرام به `@BotFather` برو، `/newbot` بزن و توکن را بردار. نصب‌کننده توکن را می‌پرسد
